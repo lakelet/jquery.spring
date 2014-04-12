@@ -1,0 +1,17 @@
+{
+  "name": "spring",
+  "version": "1.0.0",
+  "title": "jQuery Spring",
+  "author": {
+    "name": "Liang Chang"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
