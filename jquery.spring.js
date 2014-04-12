@@ -5,7 +5,6 @@
  */
 
 (function ($) {
-"use strict";
   var spring = $.spring = function ($item, $range, $bound, width) {
     var self = this;
 
