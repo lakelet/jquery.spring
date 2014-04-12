@@ -13,5 +13,10 @@
   ],
   "dependencies": {
     "jquery": ">=1.4"
-  }
+  },
+  "description": "Change the width of an element on hover.",
+  "keywords": [
+    "width",
+    "hover"
+  ]
 }
